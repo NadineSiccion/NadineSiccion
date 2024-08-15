@@ -1,6 +1,6 @@
-# Hi there, welcome to my page! 👋
+# Hi there, I'm Nadine Siccion! 👋
 
-I'm a @NadineSiccion, a **Business Administration** student with a major in **Management Information Systems**. My passion lies at the intersection of business and technology, where I aim to leverage coding to solve real-world problems and drive impactful solutions.
+I'm a **Business Administration** student with a major in **Management Information Systems**. My passion lies at the intersection of business and technology, where I aim to leverage coding to solve real-world problems and drive impactful solutions.
 
 ### 👨‍💻 What I'm working on:
 - Developing my coding skills through personal projects.
