@@ -2,23 +2,27 @@
 
 I'm a **Business Administration** student with a major in **Management Information Systems**. My passion lies at the intersection of business and technology, where I aim to leverage coding to solve real-world problems and drive impactful solutions.
 
-### 👨‍💻 What I'm working on:
+## 🔭 AI I like using
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Perplexity](https://img.shields.io/badge/perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=088F8F)
+
+## 👨‍💻 What I'm working on:
 - Developing my coding skills through personal projects.
 - Building web development projects to improve my front-end and back-end skills.
 - Exploring data analysis and visualization with Python and SQL.
 
-### 🌱 What I'm learning:
+## 🌱 What I'm learning:
 - **JavaScript and React:** Creating dynamic web applications.
 - **Python:** Writing scripts for automation and data manipulation.
 - **SQL:** Handling and analyzing large datasets.
 - **Version Control (Git):** Collaborating on code and managing projects efficiently.
 
-### 🔍 What I'm interested in:
+## 🔍 What I'm interested in:
 - **Data Analysis and Visualization:** Turning data into actionable insights.
 - **Web Development:** Creating responsive, user-friendly websites.
 - **Automation:** Streamlining processes through scripting.
 
-### 💼 Professional Aspirations:
+## 💼 Professional Aspirations:
 I'm eager to start my career in tech, especially in roles where I can blend my business knowledge with my technical skills. Whether it's in data analysis, software development, or system management, I'm excited about opportunities where I can continue learning and contribute to innovative projects.
 
 ### 📫 How to reach me:
