@@ -19,7 +19,7 @@
 
 ## 🙋‍♂️ About me
 
-An aspiring Data Engineer/BI Specialist from the Philippines! I like analyzing data and building automations. I am studying how to build data-intesive automations at the side. Feel free to reach me. 
+An aspiring Data Engineer/BI Specialist from the Philippines! I'm interested in building automations and backend development. This profile is meant for my personal projects, mostly for fun and educational purposes. Feel free to reach me through the links below! 
 
 ### 🌱 What I'm learning:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -28,10 +28,10 @@ An aspiring Data Engineer/BI Specialist from the Philippines! I like analyzing d
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
 ### 🔍 What I'm interested in:
-- **Data Analysis and Visualization:** Turning data into actionable insights.
-- **Web Development:** Creating responsive, user-friendly websites.
-- **Automation:** Streamlining processes through scripting.
+- **Data Analysis and Visualization:** Healthcare, Market Trends and Behavioral Trends are particularly intresting to me.
+- **Automation:** Streamlining repetitive processes through scripting, like report generation and data pipelines.
+- **Backend and App Development:** I'm currently learning how to create responsive, persisting and user-friendly applications.
 
 ### 📫 How to reach me:
-- **Email:** [nv.siccion@gmail.com](mailto:nadine.siccion@gmail.com)
+- **Email:** [nadine.siccion@gmail.com](mailto:nadine.siccion@gmail.com)
 - **LinkedIn:** [Nadine Veronica Siccion](www.linkedin.com/in/nadine-veronica-siccion-4b25b0178)
